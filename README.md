@@ -99,26 +99,31 @@ Official Media:
  7. Japan              — Nikkei Asia, Japan Times
  8. Singapore/APAC     — Straits Times, CNA
  9. India              — The Hindu, Times of India, Economic Times
-10. Latin America      — El País América, Folha de S.Paulo, Infobae
-11. Africa             — AllAfrica, Daily Maverick, The East African
-12. Canada             — Globe and Mail, CBC News, Toronto Star, Maclean's
-13. Australia & NZ     — ABC News Australia, Sydney Morning Herald, RNZ
-14. South Korea        — Korea Herald, Chosun Ilbo (English), Hankyoreh
-15. Turkey             — TRT World, Hurriyet Daily News, Daily Sabah
-16. Southeast Asia     — Rappler (PH), Bangkok Post, Jakarta Post, CNA
+10. Latin America      — Folha de S.Paulo, O Globo (Brazil + non-Hispanic LATAM)
+11. Hispanic World     — Infobae, El País América (Spanish-speaking Americas + Spain)
+12. Africa             — AllAfrica, Daily Maverick, The East African
+13. Canada             — Globe and Mail, CBC News, Toronto Star, Maclean's
+14. Australia & NZ     — ABC News Australia, Sydney Morning Herald, RNZ
+15. South Korea        — Korea Herald, Chosun Ilbo (English), Hankyoreh
+16. Turkey             — TRT World, Hurriyet Daily News, Daily Sabah
+17. Southeast Asia     — Rappler (PH), Bangkok Post, Jakarta Post, CNA
 
 Social Media (public sentiment):
-17. Weibo              — Chinese public sentiment & trending topics (热搜榜)
-18. Xiaohongshu        — Chinese lifestyle, consumer trends, Gen Z culture
-19. TikTok / 抖音      — global and Chinese viral content, youth trends
-20. Instagram          — visual culture, lifestyle, brand sentiment
-21. Telegram           — war zones, political movements, opposition channels
-22. LinkedIn           — professional sentiment, industry trends
-23. Twitter/X          — global real-time reaction and trending hashtags
-24. Reddit             — English-language community discussion and analysis
+18. Weibo              — Chinese public sentiment & trending topics (热搜榜)
+19. Xiaohongshu        — Chinese lifestyle, consumer trends, Gen Z culture
+20. TikTok / 抖音      — global and Chinese viral content, youth trends
+21. Instagram          — visual culture, lifestyle, brand sentiment
+22. Telegram           — war zones, political movements, opposition channels
+23. LinkedIn           — professional sentiment, industry trends
+24. Twitter/X          — global real-time reaction and trending hashtags
+25. Reddit             — English-language community discussion and analysis
 
 No filter:
-25. Global / No preference — let the best sources win
+26. Global / No preference — let the best sources win
+
+Note: Latin America (#10) = Portuguese-speaking Brazil + non-Hispanic LATAM.
+      Hispanic World (#11) = Spanish-speaking Americas + Spain.
+      Infobae and El País operate across the entire Spanish-speaking world.
 ```
 
 ---
@@ -211,7 +216,7 @@ Shanghai is accelerating on two tracks: global visibility and domestic market re
 
 ## Supported Media Sources
 
-**Official Media:** United States · United Kingdom · Canada · Australia & NZ · Europe · Russia · Turkey · China · Japan · South Korea · Southeast Asia · Singapore/APAC · India · Middle East · Latin America · Africa
+**Official Media:** United States · United Kingdom · Canada · Australia & NZ · Europe · Russia · Turkey · China · Japan · South Korea · Southeast Asia · Singapore/APAC · India · Middle East · Latin America · Hispanic World · Africa
 
 **Social Pulse:** Weibo · Xiaohongshu · TikTok/抖音 · Instagram · Telegram · LinkedIn · Twitter/X · Reddit
 

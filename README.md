@@ -1,5 +1,7 @@
 # 🌍 Global Perspectives News — See the Elephant Whole
 
+![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blueviolet?logo=anthropic) ![Powered by Tavily](https://img.shields.io/badge/Powered%20by-Tavily%20MCP-orange) ![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey)
+
 > *Six blind men each touched a different part of an elephant and came away with six completely different truths. None of them were wrong. None of them were complete.*
 >
 > *This skill is built on that idea.*
@@ -236,4 +238,4 @@ CC BY-SA 4.0 — Free to use, share, and adapt with attribution.
 
 ---
 
-*Built with Claude Code · Powered by Tavily MCP*
+*Built with [Claude Code](https://claude.ai/claude-code) · Powered by [Tavily MCP](https://tavily.com)*

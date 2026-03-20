@@ -132,26 +132,35 @@ Note: Latin America (#10) = Portuguese-speaking Brazil + non-Hispanic LATAM.
 
 ### Snippet 2 — When Narratives Collide
 
-When you select sources from opposing geopolitical camps, the briefing flags where they diverge — explicitly, without editorializing.
+When you select sources from different parts of the world, the briefing flags where they diverge — explicitly, without editorializing.
 
 ```
-## 🌍 Iran-Israel Conflict — March 2026
+## 🌍 US-China Tariffs — March 2026
 
-- Iran launches "True Promise 4" — Wave 61 of missile strikes
-  Source: Al Jazeera
+- Trump raises tariffs on Chinese goods to 145% — White House calls
+  it "the strongest trade action in American history"
+  Administration frames the move as protecting American manufacturing
+  and forcing a reset of an "unfair" decades-long trade relationship.
+  Source: WSJ
 
-- Israel intercepts Iranian barrage; IDF reports minimal damage
-  Source: Jerusalem Post
+- Beijing retaliates with 125% tariffs on US goods; Ministry of
+  Commerce calls Washington's move "economic bullying"
+  China's state media emphasizes national resilience and frames the
+  tariffs as proof that the US fears China's rise, not responds to it.
+  Source: Xinhua
 
-- Pentagon: Iran's attack "reckless and destabilizing"
-  Source: NYT
+- Asian markets fall; supply chain rerouting already underway
+  Manufacturers in Vietnam, Mexico, and India report a surge in
+  inquiries as multinationals begin moving production out of China
+  to avoid the tariff crossfire.
+  Source: Nikkei Asia
 
-⚠️ Note: US/Israeli outlets emphasize aggression and military failure.
-   Iranian/Russian outlets frame strikes as legitimate retaliation.
-   Al Jazeera focuses on civilian impact and humanitarian cost.
-   Daily Maverick (Africa): the Global South bears the oil disruption cost first.
-   Folha de S.Paulo (Brazil): fuel costs hit Latin American consumers
-   before any ceasefire is even discussed.
+⚠️ Note: Perspectives diverge significantly across source regions.
+   US outlets frame tariffs as a long-overdue correction to trade imbalance.
+   Chinese state media portrays them as protectionism masking fear of
+   competition. European outlets focus on collateral damage to global
+   supply chains. Indian and Southeast Asian business press sees
+   opportunity — and anxiety — in being caught between two giants.
 ```
 
 ---
@@ -218,9 +227,13 @@ Shanghai is accelerating on two tracks: global visibility and domestic market re
 
 ## Supported Media Sources
 
-**Official Media:** United States · United Kingdom · Canada · Australia & NZ · Europe · Russia · Turkey · China · Japan · South Korea · Southeast Asia · Singapore/APAC · India · Middle East · Latin America · Hispanic World · Africa
+The skill is designed to be open-ended — the list below reflects what's built in by default, but any region, outlet, or platform can be added by editing the skill file to match your needs.
 
-**Social Pulse:** Weibo · Xiaohongshu · TikTok/抖音 · Instagram · Telegram · LinkedIn · Twitter/X · Reddit
+**Official Media (default):** United States · United Kingdom · Canada · Australia & NZ · Europe · Russia · Turkey · China · Japan · South Korea · Southeast Asia · Singapore/APAC · India · Middle East · Latin America · Hispanic World · Africa · and more
+
+**Social Pulse (default):** Weibo · Xiaohongshu · TikTok/抖音 · Instagram · Telegram · LinkedIn · Twitter/X · Reddit · and more
+
+**Want more?** Fork the skill and add any outlet, country, or platform you need. The skill file is plain text — no code required.
 
 ---
 

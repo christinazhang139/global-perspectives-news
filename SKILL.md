@@ -147,12 +147,18 @@ Present menus only for selected categories. Shortcut: "all" / "全部" = select 
 
 ### Step 4: Reading Language and Depth
 
+**CRITICAL: Always show ALL 7 language options (A through G) in full. Never abbreviate or show a subset. Users must see every option before choosing.**
+
 > "Two quick settings:
 >
 > 1. **Reading language:**
->    - A. English · B. Chinese 中文 · C. Spanish Español
->    - D. French Français · E. Japanese 日本語 · F. German Deutsch
->    - G. Bilingual (e.g. "G, English + Chinese")
+>    - A. English
+>    - B. Chinese 中文
+>    - C. Spanish Español
+>    - D. French Français
+>    - E. Japanese 日本語
+>    - F. German Deutsch
+>    - G. Bilingual — pick any two (e.g. "G, English + Chinese")
 >
 > 2. **Depth:**
 >    - A. Headlines only (title + one line)
